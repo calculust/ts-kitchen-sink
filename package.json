@@ -1,0 +1,19 @@
+{
+  "name": "ts-kitchen-sink",
+  "version": "1.0.0",
+  "description": "The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx webpack -w"    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-loader": "^9.2.2",
+    "typescript": "^4.3.2",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
